@@ -1,0 +1,1 @@
+Dataset of people wearing mask taken from net. (Artificially synthesised)

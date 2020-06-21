@@ -1,0 +1,1 @@
+Dataset of people not wearing mask taken from net.
